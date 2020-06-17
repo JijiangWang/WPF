@@ -1,0 +1,15 @@
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\bin\Debug\WPF贪吃蛇游戏设计.exe.config
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\bin\Debug\WPF贪吃蛇游戏设计.exe
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\bin\Debug\WPF贪吃蛇游戏设计.pdb
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计.csprojAssemblyReference.cache
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\MainWindow.g.cs
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\App.g.cs
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计_MarkupCompile.cache
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计_MarkupCompile.lref
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\MainWindow.baml
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计.g.resources
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计.Properties.Resources.resources
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计.csproj.GenerateResource.cache
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计.csproj.CoreCompileInputs.cache
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计.exe
+E:\_NET\GreedySnake3\WPF贪吃蛇游戏设计\obj\Debug\WPF贪吃蛇游戏设计.pdb
